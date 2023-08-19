@@ -7,9 +7,9 @@
 
 | Exp. No | Experiment Name | Link |
 | --- | ---- | --- |
-| 01 | Study of Signals using matlab. | [Lab Report 1](Lab 1/Lab-1_report.md) |
-| 02 | Study of Linear Convolution. | [Lab Report 2](Lab 2/Lab-2_report.md) |
-| 03 | Study of Auto Correlation and Cross Correlation | [Lab Report 3](Lab 3/Lab-3_report.md) |
+| 01 | Study of Signals using matlab. | [Lab Report 1](https://github.com/sajeebKarmaker/ECE_4124_Lab_Reports/blob/main/Lab%201/Lab-1_report.md) |
+| 02 | Study of Linear Convolution. |  [Lab Report 2](https://github.com/sajeebKarmaker/ECE_4124_Lab_Reports/blob/main/Lab%202/Lab-2_report.md)|
+| 03 | Study of Auto Correlation and Cross Correlation | [Lab Report 3](https://github.com/sajeebKarmaker/ECE_4124_Lab_Reports/blob/main/Lab%203/Lab-3_report.md) |
 
 
 \
